@@ -1,0 +1,11 @@
+/Users/brunodecoene/code/gdmgent-1819-csse1/lesweek2/test2/bin/Debug/netcoreapp2.1/test2.deps.json
+/Users/brunodecoene/code/gdmgent-1819-csse1/lesweek2/test2/bin/Debug/netcoreapp2.1/test2.runtimeconfig.json
+/Users/brunodecoene/code/gdmgent-1819-csse1/lesweek2/test2/bin/Debug/netcoreapp2.1/test2.runtimeconfig.dev.json
+/Users/brunodecoene/code/gdmgent-1819-csse1/lesweek2/test2/bin/Debug/netcoreapp2.1/test2.dll
+/Users/brunodecoene/code/gdmgent-1819-csse1/lesweek2/test2/bin/Debug/netcoreapp2.1/test2.pdb
+/Users/brunodecoene/code/gdmgent-1819-csse1/lesweek2/test2/obj/Debug/netcoreapp2.1/test2.csprojAssemblyReference.cache
+/Users/brunodecoene/code/gdmgent-1819-csse1/lesweek2/test2/obj/Debug/netcoreapp2.1/test2.csproj.CoreCompileInputs.cache
+/Users/brunodecoene/code/gdmgent-1819-csse1/lesweek2/test2/obj/Debug/netcoreapp2.1/test2.AssemblyInfoInputs.cache
+/Users/brunodecoene/code/gdmgent-1819-csse1/lesweek2/test2/obj/Debug/netcoreapp2.1/test2.AssemblyInfo.cs
+/Users/brunodecoene/code/gdmgent-1819-csse1/lesweek2/test2/obj/Debug/netcoreapp2.1/test2.dll
+/Users/brunodecoene/code/gdmgent-1819-csse1/lesweek2/test2/obj/Debug/netcoreapp2.1/test2.pdb

@@ -1,0 +1,11 @@
+/Users/brunodecoene/code/gdmgent-1819-csse1/lesweek3/obj/Debug/netcoreapp2.1/lesweek3.csprojAssemblyReference.cache
+/Users/brunodecoene/code/gdmgent-1819-csse1/lesweek3/obj/Debug/netcoreapp2.1/lesweek3.csproj.CoreCompileInputs.cache
+/Users/brunodecoene/code/gdmgent-1819-csse1/lesweek3/obj/Debug/netcoreapp2.1/lesweek3.AssemblyInfoInputs.cache
+/Users/brunodecoene/code/gdmgent-1819-csse1/lesweek3/obj/Debug/netcoreapp2.1/lesweek3.AssemblyInfo.cs
+/Users/brunodecoene/code/gdmgent-1819-csse1/lesweek3/bin/Debug/netcoreapp2.1/lesweek3.deps.json
+/Users/brunodecoene/code/gdmgent-1819-csse1/lesweek3/bin/Debug/netcoreapp2.1/lesweek3.runtimeconfig.json
+/Users/brunodecoene/code/gdmgent-1819-csse1/lesweek3/bin/Debug/netcoreapp2.1/lesweek3.runtimeconfig.dev.json
+/Users/brunodecoene/code/gdmgent-1819-csse1/lesweek3/bin/Debug/netcoreapp2.1/lesweek3.dll
+/Users/brunodecoene/code/gdmgent-1819-csse1/lesweek3/bin/Debug/netcoreapp2.1/lesweek3.pdb
+/Users/brunodecoene/code/gdmgent-1819-csse1/lesweek3/obj/Debug/netcoreapp2.1/lesweek3.dll
+/Users/brunodecoene/code/gdmgent-1819-csse1/lesweek3/obj/Debug/netcoreapp2.1/lesweek3.pdb

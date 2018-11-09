@@ -8,9 +8,8 @@ namespace wachtlijst
         static void Main(string[] args)
         {
             Program myQueue = new Program();
-
             Queue orders = new Queue();
-            orders.Enqueue("First order");
+            orders.Enqueue("first order");
             orders.Enqueue("second order");
             orders.Enqueue("third order");
             orders.Enqueue("fourth order");

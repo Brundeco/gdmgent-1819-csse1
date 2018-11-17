@@ -1,0 +1,4 @@
+/Users/brunodecoene/code/gdmgent-1819-csse1/opdrachten/opdracht_4/obj/Debug/netcoreapp2.1/opdracht_4.csprojAssemblyReference.cache
+/Users/brunodecoene/code/gdmgent-1819-csse1/opdrachten/opdracht_4/obj/Debug/netcoreapp2.1/opdracht_4.csproj.CoreCompileInputs.cache
+/Users/brunodecoene/code/gdmgent-1819-csse1/opdrachten/opdracht_4/obj/Debug/netcoreapp2.1/opdracht_4.AssemblyInfoInputs.cache
+/Users/brunodecoene/code/gdmgent-1819-csse1/opdrachten/opdracht_4/obj/Debug/netcoreapp2.1/opdracht_4.AssemblyInfo.cs

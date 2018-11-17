@@ -29,7 +29,7 @@ namespace lesweek5
                 Console.WriteLine(woord);
             }
 
-
+            // comment this
             //remove spaces. Write char within ' ' 
             //this removes every spaces
             Console.WriteLine(tekst.Replace(" ", ""));

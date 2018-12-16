@@ -1,0 +1,11 @@
+/Users/brunodecoene/code/gdmgent-1819-csse1/opdrachten/opdracht_5/book/bin/Debug/netcoreapp2.1/book.deps.json
+/Users/brunodecoene/code/gdmgent-1819-csse1/opdrachten/opdracht_5/book/bin/Debug/netcoreapp2.1/book.runtimeconfig.json
+/Users/brunodecoene/code/gdmgent-1819-csse1/opdrachten/opdracht_5/book/bin/Debug/netcoreapp2.1/book.runtimeconfig.dev.json
+/Users/brunodecoene/code/gdmgent-1819-csse1/opdrachten/opdracht_5/book/bin/Debug/netcoreapp2.1/book.dll
+/Users/brunodecoene/code/gdmgent-1819-csse1/opdrachten/opdracht_5/book/bin/Debug/netcoreapp2.1/book.pdb
+/Users/brunodecoene/code/gdmgent-1819-csse1/opdrachten/opdracht_5/book/obj/Debug/netcoreapp2.1/book.csprojAssemblyReference.cache
+/Users/brunodecoene/code/gdmgent-1819-csse1/opdrachten/opdracht_5/book/obj/Debug/netcoreapp2.1/book.csproj.CoreCompileInputs.cache
+/Users/brunodecoene/code/gdmgent-1819-csse1/opdrachten/opdracht_5/book/obj/Debug/netcoreapp2.1/book.AssemblyInfoInputs.cache
+/Users/brunodecoene/code/gdmgent-1819-csse1/opdrachten/opdracht_5/book/obj/Debug/netcoreapp2.1/book.AssemblyInfo.cs
+/Users/brunodecoene/code/gdmgent-1819-csse1/opdrachten/opdracht_5/book/obj/Debug/netcoreapp2.1/book.dll
+/Users/brunodecoene/code/gdmgent-1819-csse1/opdrachten/opdracht_5/book/obj/Debug/netcoreapp2.1/book.pdb

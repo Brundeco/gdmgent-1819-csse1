@@ -21,9 +21,9 @@ De Coene Bruno
  - de kolommen houden de informatie bij die voor elk record moet worden opgeslagen
  - veel gebruikte relationele databases zijn: MySQL (in combinatie met php), Oracle, Microsoft SQL Server
 
-*Object databank*
+*Object databasek*
 
- - In een object geörienteerde databank wordt, zoals de naam aangeeft, met objecten gewerkt
+ - In een object geörienteerde databank wordt zoals de naam aangeeft met objecten gewerkt
  - een andere naam voor deze databank is het semantische database model
  - eenvoudig invoegen van objecten en deze met de object geörienteerde taal op slaan in de databank
  - gebruik van tupels (rij van objecten) niet nodig, in relationele database wel

@@ -18,15 +18,15 @@ Zo kunnen we bijvoorbeeld al een onderscheidt maken tussen:
  - Audio file formats
  - VIdeo file formats
 
-**Voorbeelden van de meest voorkomende data formats met hun file extenties**
+**Voorbeelden van en verschillen tussen de meest voorkomende data en database file extenties**
 
 *Data and database file extentions*
- - db: database file
- - sqsl: SQL database file
- - xml: XML file
+ - JSON : Javascript object notation
+ - sqsl: Structured Query Scripting Language
+ - xml: extensible markup language, html based syntax maar mogelijkheid om data op te slaan en door te sturen
+ - csv: comma seperated values, bestaat enkel uit tekstgegevens en waarden worden gescheiden door komma's
  - tar: Linux file archive
- - dat: data file
- - log: Log file
+ - dat: info over applicatie waar het bij hoort
 
 *Image file formats*
  - png: 
@@ -42,7 +42,7 @@ Zo kunnen we bijvoorbeeld al een onderscheidt maken tussen:
  - py: python source code file
  - c: c# source code file
  - js: javascript source code file
- - .npm
+ - .npm: node package manager file
 
 *Audio file formats*
 

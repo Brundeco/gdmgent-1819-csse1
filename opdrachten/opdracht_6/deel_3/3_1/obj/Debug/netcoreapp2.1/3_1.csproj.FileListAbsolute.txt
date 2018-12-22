@@ -1,0 +1,11 @@
+/Users/brunodecoene/code/gdmgent-1819-csse1/opdrachten/opdracht_6/deel_3/3_1/bin/Debug/netcoreapp2.1/3_1.deps.json
+/Users/brunodecoene/code/gdmgent-1819-csse1/opdrachten/opdracht_6/deel_3/3_1/bin/Debug/netcoreapp2.1/3_1.runtimeconfig.json
+/Users/brunodecoene/code/gdmgent-1819-csse1/opdrachten/opdracht_6/deel_3/3_1/bin/Debug/netcoreapp2.1/3_1.runtimeconfig.dev.json
+/Users/brunodecoene/code/gdmgent-1819-csse1/opdrachten/opdracht_6/deel_3/3_1/bin/Debug/netcoreapp2.1/3_1.dll
+/Users/brunodecoene/code/gdmgent-1819-csse1/opdrachten/opdracht_6/deel_3/3_1/bin/Debug/netcoreapp2.1/3_1.pdb
+/Users/brunodecoene/code/gdmgent-1819-csse1/opdrachten/opdracht_6/deel_3/3_1/obj/Debug/netcoreapp2.1/3_1.csprojAssemblyReference.cache
+/Users/brunodecoene/code/gdmgent-1819-csse1/opdrachten/opdracht_6/deel_3/3_1/obj/Debug/netcoreapp2.1/3_1.csproj.CoreCompileInputs.cache
+/Users/brunodecoene/code/gdmgent-1819-csse1/opdrachten/opdracht_6/deel_3/3_1/obj/Debug/netcoreapp2.1/3_1.AssemblyInfoInputs.cache
+/Users/brunodecoene/code/gdmgent-1819-csse1/opdrachten/opdracht_6/deel_3/3_1/obj/Debug/netcoreapp2.1/3_1.AssemblyInfo.cs
+/Users/brunodecoene/code/gdmgent-1819-csse1/opdrachten/opdracht_6/deel_3/3_1/obj/Debug/netcoreapp2.1/3_1.dll
+/Users/brunodecoene/code/gdmgent-1819-csse1/opdrachten/opdracht_6/deel_3/3_1/obj/Debug/netcoreapp2.1/3_1.pdb
